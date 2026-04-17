@@ -1,7 +1,6 @@
 import { createIcons, icons } from "https://esm.sh/lucide";
 import Slide from "./base/slide.js";
 import "./card.js";
-
 function element(tagName, options = {}) {
   const node = document.createElement(tagName);
   (options.classes ?? []).forEach((className) => node.classList.add(className));
