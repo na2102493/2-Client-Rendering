@@ -13,7 +13,6 @@ function element(tagName, options = {}) {
   }
   return node;
 }
-
 function randomTags() {
   const source = ["tag1", "tag2", "japanese", "arabic", "ideas", "ci", "cd"];
   return source.filter(() => Math.random() > 0.55).slice(0, 3);
