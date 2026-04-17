@@ -4,7 +4,6 @@ Name: Nadya Jassim Alkubaisi
 Student ID: 202102493
 
 ---
-
 ## 2 Client Rendering
 
 | Task        | Done? | Comments |
