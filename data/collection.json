@@ -1,0 +1,112 @@
+[
+  {
+    "id": "9aLzr7LiY0",
+    "title": "Deck",
+    "slides": [
+      {
+        "id": "6EzYE5IyLC",
+        "title": "Words",
+        "cards": [
+          {
+            "id": "kHuyiZmp40",
+            "type": "foreign-word",
+            "tags": [
+              "japanese"
+            ],
+            "data": {
+              "word": "生きがい",
+              "pronunciation": "ikigai",
+              "translation": "the reason for being"
+            }
+          },
+          {
+            "id": "p57tSVTfZq",
+            "type": "foreign-word",
+            "tags": [
+              "japanese"
+            ],
+            "data": {
+              "word": "懐かしい",
+              "pronunciation": "natsukashi",
+              "translation": "nostalgic"
+            }
+          },
+          {
+            "id": "17_L-t7C-I",
+            "type": "foreign-word",
+            "tags": [
+              "japanese"
+            ],
+            "data": {
+              "word": "侘び寂び",
+              "pronunciation": "wabi-sabi",
+              "translation": "beauty in imperfection"
+            }
+          }
+        ]
+      },
+      {
+        "id": "uoqCP1IuVv",
+        "title": "Cards",
+        "cards": [
+          {
+            "id": "AgFhdvbv6W",
+            "type": "playing-card",
+            "tags": [
+              "tag1"
+            ],
+            "data": {
+              "pip": "A",
+              "suit": "Spades"
+            }
+          },
+          {
+            "id": "C9VuGPK4fY",
+            "type": "playing-card",
+            "tags": [
+              "tag1",
+              "tag2"
+            ],
+            "data": {
+              "pip": "Q",
+              "suit": "Hearts"
+            }
+          },
+          {
+            "id": "Ed9-i2U2fT",
+            "type": "playing-card",
+            "tags": [
+              "tag2"
+            ],
+            "data": {
+              "pip": "10",
+              "suit": "Clubs"
+            }
+          }
+        ]
+      },
+      {
+        "id": "j1onaOB0aM",
+        "title": "List",
+        "cards": [
+          {
+            "id": "Bjtpa9cehq",
+            "type": "string-list",
+            "tags": [
+              "ci",
+              "cd"
+            ],
+            "data": {
+              "items": [
+                "Plan",
+                "Code",
+                "Build",
+                "Test"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
