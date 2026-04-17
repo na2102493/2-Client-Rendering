@@ -11,3 +11,4 @@ load()
     console.error(error);
     document.body.textContent = "Failed to load collection.";
   });
+
